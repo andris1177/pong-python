@@ -1,1 +1,1 @@
-# python-pong-game
+# pong-python
